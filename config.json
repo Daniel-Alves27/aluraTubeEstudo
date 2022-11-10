@@ -1,0 +1,82 @@
+{
+    "name": "Daniel Alves",
+    "job" : "Developer Front-end",
+    "github" : "Daniel-Alves27",
+    "playlists" : {
+        "jogos" : [
+            {
+                "title" : "LEON INDO DA FELICIDADE AO DESESPERO! - Overwatch 2",
+                "url" : "https://www.youtube.com/watch?v=bXBf7HjlZMw" ,
+                "thumb" : "https://img.youtube.com/vi/bXBf7HjlZMw/hqdefault.jpg"
+            },
+
+            {
+                "title" : "O NOVO JOGO DO MARIO!!! - Mario + Rabbids Sparks of Hope",
+                "url" : "https://www.youtube.com/watch?v=tLWzPcPWs0w" ,
+                "thumb" : "https://img.youtube.com/vi/tLWzPcPWs0w/hqdefault.jpg"
+            },
+
+            {
+                "title" : "Top 10 Jogos de Plataforma 2D",
+                "url" : "https://www.youtube.com/watch?v=ZNOqmXBLN4o" ,
+                "thumb" : "https://img.youtube.com/vi/ZNOqmXBLN4o/hqdefault.jpg"
+            },
+
+            {
+                "title" : "Como Ser um Bom Jogador de RPG",
+                "url" : "https://www.youtube.com/watch?v=xAIH6iR9kRM" ,
+                "thumb" : "https://img.youtube.com/vi/xAIH6iR9kRM/hqdefault.jpg"
+            },
+
+            {
+                "title" : "AINDA VALE A PENA? - Donkey Kong Country (SNES)",
+                "url" : "https://www.youtube.com/watch?v=lwtHhW60jKQ" ,
+                "thumb" : "https://img.youtube.com/vi/lwtHhW60jKQ/hqdefault.jpg"
+            },
+
+            {
+                "title" : "Pokémon Light Platinum #1 - O Início da Jornada / Bem Vindo a ZHERY!!",
+                "url" : "https://www.youtube.com/watch?v=7SjBEUyre9Q" ,
+                "thumb" : "https://img.youtube.com/vi/7SjBEUyre9Q/hqdefault.jpg"
+            }
+        ],
+
+        "Ciência" : [
+            {
+                "title" : "como PAPAGAIOS FALAM como HUMANOS?",
+                "url" : "https://www.youtube.com/watch?v=ePO9ESOaK58" ,
+                "thumb" : "https://img.youtube.com/vi/ePO9ESOaK58/hqdefault.jpg"
+            },
+
+            {
+                "title" : "como MOSCAS distorcem o ESPAÇO TEMPO?",
+                "url" : "https://www.youtube.com/watch?v=zAbv3u2Y9Cg" ,
+                "thumb" : "https://img.youtube.com/vi/zAbv3u2Y9Cg/hqdefault.jpg"
+            },
+
+            {
+                "title" : "Nós Estamos Vivendo em uma Simulação?",
+                "url" : "https://www.youtube.com/watch?v=8gwJB19qdJA" ,
+                "thumb" : "https://img.youtube.com/vi/8gwJB19qdJA/hqdefault.jpg"
+            },
+
+            {
+                "title" : "Esse é o maior número primo. Pra que ele serve?",
+                "url" : "https://www.youtube.com/watch?v=_GukSDwKofg" ,
+                "thumb" : "https://img.youtube.com/vi/_GukSDwKofg/hqdefault.jpg"
+            },
+
+            {
+                "title" : "SACANI RESPONDE [VÊNUS] - Ciência Sem Fim #125",
+                "url" : "https://www.youtube.com/watch?v=tNXkfQpPpYY" ,
+                "thumb" : "https://img.youtube.com/vi/tNXkfQpPpYY/hqdefault.jpg"
+            },
+
+            {
+                "title" : "SACANI RESPONDE [JÚPITER] - Ciência Sem Fim #115",
+                "url" : "https://www.youtube.com/watch?v=WIA1BGvvEDg" ,
+                "thumb" : "https://img.youtube.com/vi/WIA1BGvvEDg/hqdefault.jpg"
+            }
+        ]
+    }
+}
