@@ -7,6 +7,8 @@ import { StyledTimeline } from "../src/components/Timeline";
 function HomePage() {
     //console.log(config.playlists);
     //const estiloDaHomePage = { background: "red" };
+    
+    const valorDoFiltro = "papagaio";
 
     return (
         <>
@@ -14,7 +16,7 @@ function HomePage() {
             <div>
                 <Menu />
                 <Header />
-                <TimeLine playlists={config.playlists}>
+                <TimeLine searchValue= {valorDoFiltro} playlists={config.playlists}>
                     conteudo
                 </TimeLine>
             </div>
@@ -68,7 +70,7 @@ function Header() {
     )
 }
 
-function TimeLine(propriedade) {
+function TimeLine(searchValue, ...propriedade) {
     console.log("Dentro do componente", propriedade);
 
     const playlistNames = Object.keys(propriedade.playlists);
@@ -84,7 +86,10 @@ function TimeLine(propriedade) {
                     <section>
                         <h2>{playlistName}</h2>
                         <div>
-                            {videos.map((video) => {
+                            {videos.filter((video) => {
+                                return video.title.includes(searchValue)
+                            
+                            }).map((video) => {
                                 return (
                                     <a href={video.url}>
                                         <img src={video.thumb} />
